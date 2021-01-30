@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## wog-js
 
-You can use the [editor on GitHub](https://github.com/wog-js/wog-js.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome! `wog-js` or just `wog` is a web application for inspecting log files with ease!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Preview
+![login](https://raw.githubusercontent.com/wog-js/wog-js.github.io/main/screenshots/login.png)
+![overview](https://raw.githubusercontent.com/wog-js/wog-js.github.io/main/screenshots/overview.png)
+![admin](https://raw.githubusercontent.com/wog-js/wog-js.github.io/main/screenshots/admin.png)
 
-### Markdown
+## Why does this exist?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I was tired of always SSHing into my local server and looking through a log file in the terminal. It was painful, especially when the file was very large. So I decided to build myself a small web interface with some extra features to erase the pain of looking through log files via a small terminal.
 
-```markdown
-Syntax highlighted code block
+## What is this page about?
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wog-js/wog-js.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This page will be used to host documentation and guides. For now, documentation [can be found on Github](https://github.com/wog-js/wog/wiki).
